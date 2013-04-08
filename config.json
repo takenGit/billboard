@@ -1,0 +1,12 @@
+{
+	"version": "v0.8.22",
+	"npm": true,
+	"main": "app.js",
+	"args": [],
+	"envs": {
+		"TZ": "Asia/Tokyo",
+		"PORT": "80",
+		"USER": "node",
+		"PASS": "node"
+	}
+}
